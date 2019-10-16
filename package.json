@@ -1,0 +1,23 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "This is a node server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RetnoSuciWulandari/nodeServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RetnoSuciWulandari/nodeServer/issues"
+  },
+  "homepage": "https://github.com/RetnoSuciWulandari/nodeServer#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2"
+  }
+}
